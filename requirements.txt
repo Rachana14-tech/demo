@@ -2,3 +2,7 @@
  Video chat
  File sharing option
  Audio call
+ 
+ Emoji support
+ Group chat support
+ Dark theme
