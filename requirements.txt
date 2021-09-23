@@ -1,0 +1,4 @@
+ Text baesd chat
+ Video chat
+ File sharing option
+ Audio call
